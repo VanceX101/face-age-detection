@@ -25,7 +25,7 @@ You can install the required packages using pip. Make sure to create a virtual e
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/VanceX101/face-age-detection.git
    cd age-prediction-app
    ```
 
